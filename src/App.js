@@ -2,6 +2,7 @@ import logo from './logo.svg';
 import './App.css';
 import ReviewBox from './Review';
 import PropTypes from 'prop-types';
+import 'assets/css/style.css'
 
 function App() {
   return (
